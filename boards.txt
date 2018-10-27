@@ -42,4 +42,4 @@ eclay_minion_d21.build.variant=minion_d21
 eclay_minion_d21.build.vid=0xEC1A
 eclay_minion_d21.build.pid=0x8B0B
 eclay_minion_d21.bootloader.tool=openocd
-eclay_minion_d21.bootloader.file=minion_d21/bootloader-minion_samd21
+eclay_minion_d21.bootloader.file=minion_d21/bootloader-minion_samd21.bin
